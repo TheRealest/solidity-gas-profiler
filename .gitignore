@@ -1,0 +1,9 @@
+# typescript build destination
+lib
+
+# trace data directory
+concise_trace_cache
+
+# file with API keys and other config data (contract address, etc.)
+src/secrets*
+src/config*
